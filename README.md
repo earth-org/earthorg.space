@@ -1,3 +1,3 @@
 
 
-@marc, please add License / Copyleft stuff 
+@Marc-Bogonovich, please add License / Copyleft stuff 
